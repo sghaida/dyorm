@@ -1,6 +1,6 @@
 # DyORM
 [![codecov](https://codecov.io/gh/sghaida/dyorm/branch/main/graph/badge.svg?token=L7ATQJC1CC)](https://codecov.io/gh/sghaida/dyorm)
-[![Code Grade](https://api.codiga.io/project/34848/status/svg)](https://app.codiga.io/hub/project/34848/dyorm)
+[![Code Grade](https://api.codiga.io/project/35012/status/svg)](https://app.codiga.io/hub/project/35012/dyorm)
 [![workflow](https://github.com/sghaida/dyorm/actions/workflows/ci.yml/badge.svg)](https://github.com/sghaida/dyorm/actions/workflows/ci.yml/badge.svg)
 
 small and opinionated DynamoDB ORM, which quite easy to kick you start with DynamoDB calls. 
